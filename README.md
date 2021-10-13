@@ -5,6 +5,7 @@ Fiecare student își calculează problema asignată astfel: `1 + cod % 4`, unde
 Toate problemele trebuie să aibă un meniu și o posibilitate de a vizualiza toate datele existente (show all).
 
 Trebuie să respectați organizarea codului prezentată la curs și seminar, adică să aveți cel puțin următoarele pachete și fișiere:
+```
 - Domain
   - Modul pentru entitatea din problema voastră, cu getteri etc.
 - Logic
@@ -13,6 +14,7 @@ Trebuie să respectați organizarea codului prezentată la curs și seminar, adi
   - Module pentru interfața cu utilizatorul
 - Tests
   - Module pentru teste
+```
 
 Trebuie predate:
 1. Minim o funcționalitate în prima săptămână, minim încă două în a doua săptămână și toate în a treia săptămână.
